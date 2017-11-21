@@ -1,2 +1,7 @@
 # hello-world
 Hello World
+
+I'm a Computer Science in Education Consultant
+
+Line 6
+Line  7
